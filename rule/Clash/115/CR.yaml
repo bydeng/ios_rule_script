@@ -1,12 +1,4 @@
-# NAME: 115
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-07-03 16:12:40
-# DOMAIN: 0
-# DOMAIN-SUFFIX: 4
-# TOTAL: 10
-payload:
-  - DOMAIN-SUFFIX,jable.tv
-  - DOMAIN-SUFFIX,hanime1.me
-  - DOMAIN-SUFFIX,hembed.com
-  - DOMAIN-SUFFIX,mushroomtrack.com
+DOMAIN-SUFFIX,jable.tv
+DOMAIN-SUFFIX,hanime1.me
+DOMAIN-SUFFIX,hembed.com
+DOMAIN-SUFFIX,mushroomtrack.com
